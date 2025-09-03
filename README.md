@@ -21,7 +21,7 @@ Um sistema abrangente de gestão de saúde projetado para otimizar processos mé
 - **📅 Agendamento de Consultas** - Sistema de agendamento online com lembretes
 - **📊 Análise Médica** - Análise de dados para insights sobre saúde
 
-**Tecnologia:** Python, Django, PostgreSQL, HTML/CSS, JavaScript, Bootstrap
+**Tecnologia:** PHP, PostgreSQL, HTML/CSS, JavaScript
 
 
 ## 📫 Contato
